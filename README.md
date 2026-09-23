@@ -1,4 +1,4 @@
-<h1 align="center">Prueba-Practica</h1>
+<h1 align="center">Deber-Ejercicio</h1>
 
 <p align="center">
   <strong>🦇 LA BATICUEVA DEL CÓDIGO · GOTHAM CODE DIVISION</strong><br>
