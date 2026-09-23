@@ -1,169 +1,227 @@
-<h1 align="center">Ejercicios-Deber</h1>
+<h1 align="center">Prueba-Practica</h1>
 
 <p align="center">
-  <strong>🃏 GUILD DE CAJUNS · THE X-MANSION CODE CLUB</strong><br>
-  <em>New Orleans tiene sus trucos. Nosotros tenemos la barajeada perfecta.</em>
+  <strong>🦇 LA BATICUEVA DEL CÓDIGO · GOTHAM CODE DIVISION</strong><br>
+  <em>Gotham tiene misterios. Nosotros tenemos problemas por resolver.</em>
 </p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:3A005C,100:FF007F&height=230&section=header&text=Prueba-Practica&fontSize=44&fontColor=FF007F&animation=fadeIn&fontAlignY=38&desc=GAMBIT%20CODE%20DIVISION&descAlignY=60&descSize=20&descColor=FFFFFF" width="100%" alt="Prueba-Practica — Gambit Code Division">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,60:252525,100:FACC15&amp;height=230&amp;section=header&amp;text=Prueba-Practica&amp;fontSize=44&amp;fontColor=FACC15&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=GOTHAM%20CODE%20DIVISION&amp;descAlignY=60&amp;descSize=20&amp;descColor=FFFFFF" width="100%" alt="Prueba-Practica — Gotham Code Division: texto animado sobre ondas decorativas negras y amarillas">
 
-<h2>🃏 EL CÓDIGO CARGADO DE ENERGÍA CINÉTICA</h2>
+<h2>🦇 EL CÓDIGO QUE GOTHAM NECESITA</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3200&pause=1500&color=FF007F&center=true&vCenter=true&width=850&height=70&lines=Si+lo+puedes+imaginar%2C+lo+puedes+cargar+de+energ%C3%ADa.;De+d%C3%ADa+estudiantes.+De+noche%2C+ladrones+de+bugs.;Cinco+cartas.+Un+as+bajo+la+manga.;Carga+cin%C3%A9tica+lista.+Lanza+el+c%C3%B3digo.;El+mejor+jugador+nunca+muestra+sus+cartas+sin+debug.;New+Orleans+descansa.+El+haz+de+luz+contin%C3%BAa." width="100%" alt="Frases animadas estilo Gambito">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=21&amp;duration=3200&amp;pause=1500&amp;color=B8860B&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=70&amp;lines=Si+lo+puedes+imaginar%2C+lo+puedes+programar.;De+d%C3%ADa+estudiantes.+De+noche%2C+cazadores+de+bugs.;Cinco+mentes.+Un+equipo.+Gotham+nos+espera.;Batse%C3%B1al+encendida.+Comienza+la+misi%C3%B3n.;El+mejor+detective+tambi%C3%A9n+revisa+su+c%C3%B3digo.;Gotham+descansa.+El+debug+contin%C3%BAa." width="100%" alt="Frases animadas: Si lo puedes imaginar, lo puedes programar; De día estudiantes, de noche cazadores de bugs; Cinco mentes, un equipo, Gotham nos espera; Batseñal encendida; el mejor detective revisa su código; Gotham descansa y el debug continúa">
 
-**La suerte está echada, mon ami. La lógica debe reventar.**
+**La noche es oscura. La lógica debe estar clara.**
 
-<img src="https://img.shields.io/badge/BASE-NEW_ORLEANS-FF007F?style=for-the-badge&labelColor=18181B" alt="Base temática: New Orleans">
-<img src="https://img.shields.io/badge/EQUIPO-5_CARTAS-FF007F?style=for-the-badge&labelColor=18181B" alt="Equipo de cinco cartas">
-<img src="https://img.shields.io/badge/MISI%C3%93N-CARGAR_Y_APOSTAR-FF007F?style=for-the-badge&labelColor=18181B" alt="Misión: cargar y apostar">
+<img src="https://img.shields.io/badge/BASE-BATICUEVA-FACC15?style=for-the-badge&amp;labelColor=18181B" alt="Base temática: Baticueva">
+<img src="https://img.shields.io/badge/EQUIPO-5_INTEGRANTES-FACC15?style=for-the-badge&amp;labelColor=18181B" alt="Equipo de cinco integrantes">
+<img src="https://img.shields.io/badge/MISI%C3%93N-RESOLVER_Y_APRENDER-FACC15?style=for-the-badge&amp;labelColor=18181B" alt="Misión: resolver y aprender">
 
 <br>
 
-<img src="https://img.shields.io/badge/PR%C3%81CTICA-ACAD%C3%89MICA-9333EA?style=flat-square&labelColor=18181B" alt="Práctica académica">
-<img src="https://img.shields.io/badge/ENFOQUE-ENERG%C3%8DA_Y_COLABORACI%C3%93N-9333EA?style=flat-square&labelColor=18181B" alt="Enfoque en energía y colaboración">
+<img src="https://img.shields.io/badge/PR%C3%81CTICA-ACAD%C3%89MICA-CA8A04?style=flat-square&amp;labelColor=18181B" alt="Práctica académica">
+<img src="https://img.shields.io/badge/ENFOQUE-L%C3%93GICA_Y_COLABORACI%C3%93N-CA8A04?style=flat-square&amp;labelColor=18181B" alt="Enfoque en lógica y colaboración">
 
 <br><br>
 
-**Bienvenidos a la mesa de juego, nuestra base de operaciones.**<br>
-Aquí cargamos problemas con energía cinética, robamos soluciones elegantes y repartimos el juego.<br>
-Un truco de manos, una jugada limpia y el código queda perfecto.
+**Bienvenidos a la Baticueva, nuestra base de operaciones.**<br>
+Aquí investigamos problemas, diseñamos soluciones y seguimos las pistas de cada error.<br>
+Compartimos ideas para aprender y construir soluciones comprensibles.
 
-**Cinco cartas en la mano. Un póquer de reinas.**
+**Cinco mentes. Un equipo. Infinitas ideas.**
 
 </div>
 
 ---
 
-## ♠️ Sobre la práctica · El expediente: Prueba-Practica
+## 🌃 Sobre la práctica · El expediente: Prueba-Practica
 
-Este repositorio está destinado a nuestra **prueba práctica de programación en equipo**. Nuestra misión es aplicar conocimientos, manipular los datos como si fueran un mazo de cartas y soltar una ráfaga de código que haga explotar cualquier bug.
+Este repositorio está destinado a nuestra **prueba práctica de programación en equipo**. Nuestra misión es aplicar conocimientos, desarrollar el razonamiento lógico y construir soluciones claras mediante la colaboración.
 
-Como en una partida de apuestas en el Barrio Francés, cada movimiento cuenta: analizamos la mesa, preparamos la estafa perfecta y nos aseguramos de ganar la partida sin que el compilador se dé cuenta.
+Como en una investigación de Gotham, cada dato importa: buscamos analizar el problema, organizar los pasos y comprobar que los resultados tengan sentido.
 
-El estilo de Gambito guía nuestro enfoque: agilidad, precisión y esa pizca de audacia que hace que una mala mano se transforme en un as de picas.
+La investigación de Batman inspira nuestro enfoque: observar los detalles, relacionar la información y comprobar cada hipótesis. Cada ejercicio representa un caso que buscamos entender y explicar con nuestras propias palabras.
 
-> **Lema del equipo:** «Nunca apuestes contra un ladrón que sabe cargar las cartas».
+> **Lema del equipo:** «Si lo puedes imaginar, lo puedes programar».
 >
-> Incluso el mejor bastón bo necesita un buen impulso... y algo de energía cinética.
+> Incluso el mejor bati-invento necesita un buen diseño… y unas cuantas pruebas.
 
-El aura rosa neón ya está encendida; nuestra tarea es lanzar las cartas directo al objetivo.
+La Batseñal pone el ambiente; nuestra tarea es convertir las ideas en pasos claros.
 
-## 🃏 Nuestro equipo · La Guild de ladrones del código
+## 🦇 Nuestro equipo · La Batfamilia del código
 
-Todo gran robo necesita una banda talentosa. En nuestra mesa hay cinco jugadores listos para repartir las cartas, despistar al enemigo y llevarse el botín sin un solo fallo de compilación.
+Todo gran reto necesita un equipo dispuesto a resolverlo. Nuestra mesa de la Baticueva reúne cinco perspectivas para compartir preguntas, discutir alternativas y aprender durante el proceso.
 
-# 🃏 Metodología Y GambiIntegrantes
+# 🦇 Metodología Y BatIntegrantes
 
-| N.º | GambiIntegrante | Rol en la Jugada | Objetivo en la Mesa |
+| N.º | BatIntegrante | BatOperaciones | BatObjetivo |
 | :---: | :--- | :--- | :--- |
-| **1** | **Paredes Acosta Dereck Shair** | **El As de Picas · Investigar · Analista** | Barajar el problema, leer las cartas del enemigo e identificar las entradas y salidas. |
-| **2** | **Ashanga Yumbo Brishy Anahy** | **La Dama de Tréboles · Preparar · Diseñar** | Trazar la estrategia del robo y organizar el flujo antes de soltar el primer naipe. |
-| **3** | **Calderon Carvajal Fher Dorian** | **El Rey de Corazones · Construir · Programar** | Aplicar la energía cinética y transformar la lógica en código explosivo. |
-| **4** | **Casillas Ochoa Antony Sebastian** | **El Jókertester · Inspeccionar · Probar** | Lanzar cartas trampa, probar las entradas límite y ver si el código resiste el impacto. |
-| **5** | **Sanchez Bastidas Karina Paola** | **La Reina de Diamantes · Archivar · Documentar** | Contar la historia del gran robo, dejar todo archivado y hacer que se vea con clase. |
+| **1** | **Paredes Acosta Dereck Shair** | **Detective del Código Oscuro · Investigar · Analista** | Identificar los datos de entrada, las condiciones y el resultado esperado del problema. |
+| **2** | **Ashanga Yumbo Brishy Anahy** | **Arquitecto de la Baticueva Digital · Preparar · Diseñar** | Organizar una secuencia lógica de solución antes de escribir código. |
+| **3** | **Calderon Carvajal Fher Dorian** | **Caballero del Backend · Construir · Programar** | Transformar el diseño en instrucciones claras, comprensibles y ordenadas. |
+| **4** | **Casillas Ochoa Antony Sebastian** | **Guardián Nocturno del Testing · Inspeccionar · Probar** | Revisar casos normales, entradas inválidas y situaciones límite. |
+| **5** | **Sanchez Bastidas Karina Paola** | **Oráculo del Conocimiento · Archivar · Documentar** | Explicar el funcionamiento, las decisiones y lo aprendido para facilitar la revisión. |
 
-**La mejor jugada de Gambito es nunca jugar solo.**
 
-Saber cuándo pasar la carta, cómo engañar al error y celebrar la victoria con un buen trago es parte de nuestra misión.
 
-## ⚡ Nuestro proceso · El truco de magia cajún
 
-Este protocolo orienta nuestro trabajo: un buen tahúr nunca revela sus trucos sin haberlos practicado mil veces.
+**La mejor herramienta de la Baticueva es trabajar juntos.**
+
+Poder discutir una idea, escuchar otra perspectiva y comprender la solución forma parte de nuestra misión.
+
+## 🔎 Nuestro proceso · Protocolo de la Baticueva
+
+Este protocolo orienta nuestro trabajo: incluso el mejor detective necesita comprobar sus sospechas.
 
 | Fase | Operación | Objetivo |
 | :---: | :--- | :--- |
-| **01** | **Barajar · Analizar** | Identificar las reglas del juego, las trampas y la mano ganadora. |
-| **02** | **Cargar · Diseñar** | Organizar el ataque y canalizar la energía antes de escribir código. |
-| **03** | **Lanzar · Programar** | Soltar la ráfaga de código cinético directamente sobre el archivo principal. |
-| **04** | **Explotar · Probar** | Verificar la detonación, revisar casos bordo y esquivar los centinelas. |
-| **05** | **Cobrar · Documentar** | Guardar las ganancias, explicar el truco y firmar con estilo. |
+| **01** | **Investigar · Analizar** | Identificar los datos de entrada, las condiciones y el resultado esperado del problema. |
+| **02** | **Preparar · Diseñar** | Organizar una secuencia lógica de solución antes de escribir código. |
+| **03** | **Construir · Programar** | Transformar el diseño en instrucciones claras, comprensibles y ordenadas. |
+| **04** | **Inspeccionar · Probar** | Revisar casos normales, entradas inválidas y situaciones límite. |
+| **05** | **Archivar · Documentar** | Explicar el funcionamiento, las decisiones y lo aprendido para facilitar la revisión. |
 
-> **Regla de la Guild:** ningún botín se celebra si la energía se apaga a mitad del camino.
+> **Regla de la Baticueva:** ningún caso se cierra solo porque «en mi computadora sí funciona».
 
-## 💥 Filosofía del equipo · Reglas de la mesa de póquer
+## ⚡ Filosofía del equipo · Nuestro código de conducta
 
-- **No muestres tu mano antes de tiempo.** Entiende la lógica antes de lanzar el `git push`.
-- **Carga cada carta con cuidado.** Las variables mal puestas explotan en tu propia cara.
-- **Deja una nota en el sombrero.** Los comentarios deben ser tan claros como un as sobre la mesa.
-- **Mantén la elegancia.** Si el código falla, sonríe, ajusta la gabardina y vuelve a tirar.
-- **Haz trampa a los errores.** Busca el camino más astuto y rápido para saltarte el bug.
-- **Confía en la banda.** El trabajo en equipo vale más que un saco lleno de joyas.
+- **Investigar antes de actuar.** Entender el problema es parte de resolverlo.
+- **Prepararse para lo inesperado.** Los casos límite también merecen una prueba.
+- **Dejar pistas útiles.** Utilizar variables claras y comentarios que expliquen lo necesario.
+- **Mantener la constancia.** Investigar la causa de un error, revisar y ajustar la solución.
+- **Proponer con creatividad.** Explorar distintas rutas y evaluar cuál responde mejor al problema.
+- **Escribir con claridad.** Pensar en el compañero que leerá el código después.
+- **Cuidar al equipo.** Escuchar, preguntar y compartir lo aprendido nos permite avanzar juntos.
+- **Aprender de los fallos.** Reconocer los errores para saber qué debemos practicar.
 
-Nuestro bastón bo está listo; la paciencia y el encanto cajún harán el resto.
+Nuestro cinturón de herramientas empieza con atención, paciencia y disposición para revisar.
 
-## 🂡 Galería de villanos mutantes
+## 🗂️ Galería de villanos
 
-*Enemigos que intentan arruinar nuestra partida.*
+*Clasificación humorística de los enemigos del programa.*
 
 | Villano | Su versión en programación | Cómo enfrentarlo |
 | :--- | :--- | :--- |
-| **Los Centinelas** | El compilador bloqueando cada intento de build. | Cambiar de ruta, pulir la sintaxis y evadir los escáneres. |
-| **Mister Siniestro** | Un bug genético heredado de tres librerías atrás. | Rastrear el ADN de la variable hasta encontrar la mutación. |
-| **Arcade** | Un bucle infinito disfrazado de parque de atracciones. | Cortar la energía del `while` y buscar la salida de emergencia. |
-| **Dientes de Sable** | La excepción no controlada que destroza el runtime. | Poner un `try-catch` bien cargado de energía cinética. |
-| **Mística** | Un tipo de dato que se hace pasar por otro (`String` a `Int`). | Hacer un cast explícito y quitarle la máscara. |
+| **El Joker** | El error que convierte la salida en un caos. | Reproducir el fallo y seguir el flujo del programa. |
+| **El Acertijo** | Una condición que nadie consigue descifrar. | Simplificar la expresión y revisar su lógica. |
+| **Dos Caras** | El `if` funciona, pero el `else` guarda una sorpresa. | Probar ambas ramas. |
+| **El Espantapájaros** | Ese mensaje de error que da miedo leer. | Revisar el mensaje completo y localizar la causa. |
+| **Bane** | El caso límite que rompe la solución. | Comprobar límites y validar las entradas. |
 
-## 🃏 Zona de descanso · Un descanso en el Barrio Francés
+## ☕ Zona de descanso · Alfred sirve el café
 
-Hasta Remy LeBeau necesita una pausa para barajar un mazo nuevo... Un momento para respirar antes del próximo gran golpe.
+Hasta el Caballero Oscuro necesita descansar entre compilaciones ... Un pequeño descanso antes de volver al expediente.
 
 <details>
-<summary><b>♠️ Gambito, ¿cuál es tu truco bajo la manga?</b></summary>
+<summary><b>🦇 Batman, ¿cuál es tu superpoder?</b></summary>
 
 <br>
 
-**Hacer explotar la línea de código donde estaba el NullPointer.**
+**Encontrar el punto y coma que faltaba después de revisar todo el programa.**
 
-A veces la mejor solución es un poco de energía cinética y un 'Ctrl + Z' oportuno, *chérie*.
+El presupuesto de Wayne Enterprises todavía no resuelve ese problema.
 
 </details>
 
 <details>
-<summary><b>💃 Un consejo de Rogue (Pícara)</b></summary>
+<summary><b>🤵 Un consejo de Alfred</b></summary>
 
 <br>
 
-—Remy, no abraces ese servidor sin ponerte guantes.
+—Señor, quizá debería guardar los cambios antes de volver a ejecutar.
 
-—Tranquila, *chérie*, tengo todo bajo control.
+—Alfred, lo tengo todo bajo control.
 
-**Se caen las conexiones.**
+**El editor se cierra.**
 
-Esa noche Gambito aprendió lo que significa la transferencia de datos sin protección.
+Esa noche nació una nueva costumbre: guardar con frecuencia.
 
 </details>
 
 <details>
-<summary><b>🃏 Gambito y la baraja cargada</b></summary>
+<summary><b>💾 Alfred recomienda guardar… otra vez</b></summary>
 
 <br>
 
-—Solo voy a cambiar una variable en producción, *mon ami*.
+—Solo voy a cambiar una cosita, Alfred.
 
 Cinco minutos después:
 
-—¿Alguien vio a dónde voló la base de datos?
+—¿Tenemos una copia anterior?
 
-**Un verdadero cajún siempre guarda una copia de seguridad en el bolsillo.**
+**La prudencia también cabe en el cinturón de herramientas.**
 
 </details>
 
 <details>
-<summary><b>💥 El ataque de los Centinelas</b></summary>
+<summary><b>🃏 El plan del Joker</b></summary>
 
 <br>
 
-—Gambito, el compilador dice que falta un punto y coma.
+—Batman, cambié un solo símbolo de tu condición.
 
-—¿Un punto y coma? Déjamelo a mí.
+—¿Qué hiciste?
 
-*Lanza un as de corazones encendido a la pantalla.*
+—Reemplacé `&&` por `||`.
 
-—Remy, eso no arregló el error, solo destruiste el monitor.
+—¿Y ahora?
 
-**Siguiente misión:** comprar otra pantalla antes de la revisión.
+—Gotham entera pasó la validación.
+
+**Siguiente misión:** probar cada condición antes de cerrar el caso.
+
+</details>
+
+<details>
+<summary><b>❓ El Acertijo presenta su última trampa</b></summary>
+
+<br>
+
+*«Repito sin descansar, no sé cuándo terminar.  
+Si mi condición no cambia, ¿quién me podrá parar?»*
+
+Otra pista aparece en la pantalla:
+
+*«Avanzo sin moverme, repito sin terminar».*
+
+Batman revisa el contador.
+
+**Respuesta:** un bucle infinito.
+
+La pista estaba en la variable que nadie actualizó. Alfred ya había preparado tres cafés.
+
+</details>
+
+<details>
+<summary><b>💻 La Baticomputadora tiene una objeción</b></summary>
+
+<br>
+
+—En mi computadora sí funciona.
+
+—Señor, esta también es su computadora.
+
+Batman decide revisar los datos de entrada.
+
+**El Joker queda descartado por el momento.**
+
+</details>
+
+<details>
+<summary><b>🚨 Se encendió la Batseñal</b></summary>
+
+<br>
+
+Las frases que la activan:
+
+- «Solo voy a cambiar una cosita».
+- «No hace falta probar ese caso».
+- «En la Baticomputadora sí funciona».
+- «¿Quién tocó este archivo?».
+
+**Primero revisamos los cambios. Después buscamos al villano.**
 
 </details>
 
@@ -171,24 +229,25 @@ Cinco minutos después:
 
 <div align="center">
 
-### NEW ORLEANS PUEDE DORMIR. LA ENERGÍA CINÉTICA SIGUE BRILLANDO.
+### GOTHAM PUEDE DORMIR. ESE BUG TODAVÍA NO.
 
-**Primero cargamos la carta. Luego la lanzamos.**  
-**Y si no explota a la primera, barajamos de nuevo.**
+**Primero lo imaginamos. Luego lo programamos.**  
+**Y si falla, lo depuramos juntos.**
 
-🃏
+🦇
 
-*No hace falta ser un X-Men para resolver grandes problemas.*  
-*Hace falta estilo, buenas cartas y un equipo que te cubra la espalda.*
-
-<br>
-
-**La próxima jugada ganadora puede estar en la carta que aún no has tirado.**
+*No hace falta una capa para resolver grandes problemas.*  
+*Hace falta aprender, practicar y volver a intentarlo.*
 
 <br>
 
-<sub>Una práctica con lógica, encanto cajún y poder mutante.</sub>
+**La próxima pista puede estar en esa línea que todavía no revisamos.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:3A005C,100:FF007F&height=100&section=footer" width="100%" alt="Ondas decorativas estáticas rosa neón y púrpura">
+<br>
+
+<sub>Una práctica con lógica, trabajo en equipo y espíritu de detective.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,60:252525,100:FACC15&amp;height=100&amp;section=footer" width="100%" alt="Ondas decorativas estáticas negras y amarillas inspiradas en Gotham">
 
 </div>
+Bien Realizado
