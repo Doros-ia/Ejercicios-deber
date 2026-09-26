@@ -144,11 +144,6 @@ El programa determina:
 ---
 <p align="center">
   <a href="./Ejercicio%201/">
-    📂 <b>Abrir carpeta del Ejercicio 1</b>
-  </a>
-</p>
-<p align="center">
-  <a href="./Ejercicio%201/">
     <img src="https://img.shields.io/badge/ABRIR_EXPEDIENTE-EJERCICIO_1-FACC15?style=for-the-badge&labelColor=18181B" alt="Abrir carpeta del Ejercicio 1">
   </a>
 </p>
@@ -190,7 +185,7 @@ El sistema genera las tablas correspondientes desde la tabla `3` hasta la tabla 
 ---
 <p align="center">
   <a href="./Ejercicio%202/">
-    📂 <b>Abrir carpeta del Ejercicio 2</b>
+    <img src="https://img.shields.io/badge/ABRIR_EXPEDIENTE-EJERCICIO_2-FACC15?style=for-the-badge&labelColor=18181B" alt="Abrir carpeta del Ejercicio 2">
   </a>
 </p>
 
@@ -240,7 +235,7 @@ Promedio: 7
 ---
 <p align="center">
   <a href="./Ejercicio%203/">
-    📂 <b>Abrir carpeta del Ejercicio 3</b>
+    <img src="https://img.shields.io/badge/ABRIR_EXPEDIENTE-EJERCICIO_3-FACC15?style=for-the-badge&labelColor=18181B" alt="Abrir carpeta del Ejercicio 3">
   </a>
 </p>
 
@@ -300,7 +295,7 @@ El sistema permite consultar el saldo, realizar depósitos, efectuar retiros y r
 ---
 <p align="center">
   <a href="./Ejercicio%204/">
-    📂 <b>Abrir carpeta del Ejercicio 4</b>
+    <img src="https://img.shields.io/badge/ABRIR_EXPEDIENTE-EJERCICIO_4-FACC15?style=for-the-badge&labelColor=18181B" alt="Abrir carpeta del Ejercicio 4">
   </a>
 </p>
 
@@ -352,9 +347,10 @@ Al finalizar se genera un reporte general del estacionamiento.
 ---
 <p align="center">
   <a href="./Ejercicio%205/">
-    📂 <b>Abrir carpeta del Ejercicio 5</b>
+    <img src="https://img.shields.io/badge/ABRIR_EXPEDIENTE-EJERCICIO_5-FACC15?style=for-the-badge&labelColor=18181B" alt="Abrir carpeta del Ejercicio 5">
   </a>
 </p>
+
 ## 🦇 Ejercicio 6 · Triángulo y patrones
 
 ### 📋 Descripción
@@ -426,7 +422,7 @@ El **ciclo interior** determina cuántos asteriscos o números se muestran dentr
 ---
 <p align="center">
   <a href="./Ejercicio%206/">
-    📂 <b>Abrir carpeta del Ejercicio 6</b>
+    <img src="https://img.shields.io/badge/ABRIR_EXPEDIENTE-EJERCICIO_6-FACC15?style=for-the-badge&labelColor=18181B" alt="Abrir carpeta del Ejercicio 6">
   </a>
 </p>
 
@@ -490,7 +486,7 @@ El programa permite registrar ventas y generar estadísticas.
 ---
 <p align="center">
   <a href="./Ejercicio%207/">
-    📂 <b>Abrir carpeta del Ejercicio 7</b>
+    <img src="https://img.shields.io/badge/ABRIR_EXPEDIENTE-EJERCICIO_7-FACC15?style=for-the-badge&labelColor=18181B" alt="Abrir carpeta del Ejercicio 7">
   </a>
 </p>
 
@@ -586,7 +582,7 @@ Después del número `10`, la condición deja de cumplirse y el ciclo termina.
 ---
 <p align="center">
   <a href="./Ejercicio%208/">
-    📂 <b>Abrir carpeta del Ejercicio 8</b>
+    <img src="https://img.shields.io/badge/ABRIR_EXPEDIENTE-EJERCICIO_8-FACC15?style=for-the-badge&labelColor=18181B" alt="Abrir carpeta del Ejercicio 8">
   </a>
 </p>
 
@@ -645,7 +641,7 @@ El programa determina:
 ---
 <p align="center">
   <a href="./Ejercicio%209/">
-    📂 <b>Abrir carpeta del Ejercicio 9</b>
+    <img src="https://img.shields.io/badge/ABRIR_EXPEDIENTE-EJERCICIO_9-FACC15?style=for-the-badge&labelColor=18181B" alt="Abrir carpeta del Ejercicio 9">
   </a>
 </p>
 
@@ -790,7 +786,7 @@ Cada programa debe comprobarse utilizando diferentes escenarios antes de conside
 ---
 <p align="center">
   <a href="./Ejercicio%2010/">
-    📂 <b>Abrir carpeta del Ejercicio 10</b>
+    <img src="https://img.shields.io/badge/ABRIR_EXPEDIENTE-EJERCICIO_10-FACC15?style=for-the-badge&labelColor=18181B" alt="Abrir carpeta del Ejercicio 10">
   </a>
 </p>
 
