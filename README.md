@@ -142,6 +142,11 @@ El programa determina:
 | **3** | `10` | Comprobar el límite superior permitido. |
 
 ---
+<p align="center">
+  <a href="./Ejercicio%201/">
+    📂 <b>Abrir carpeta del Ejercicio 1</b>
+  </a>
+</p>
 
 ## 🦇 Ejercicio 2 · Tabla de multiplicar configurable
 
@@ -178,6 +183,11 @@ El sistema genera las tablas correspondientes desde la tabla `3` hasta la tabla 
 | **3** | 8 | 4 | 10 | Entrada inválida. |
 
 ---
+<p align="center">
+  <a href="./Ejercicio%202/">
+    📂 <b>Abrir carpeta del Ejercicio 2</b>
+  </a>
+</p>
 
 ## 🦇 Ejercicio 3 · Serie y suma de números pares
 
@@ -223,6 +233,11 @@ Promedio: 7
 | **4** | `12` | Se muestra `2 4 6 8 10 12`. |
 
 ---
+<p align="center">
+  <a href="./Ejercicio%203/">
+    📂 <b>Abrir carpeta del Ejercicio 3</b>
+  </a>
+</p>
 
 ## 🦇 Ejercicio 4 · Cajero automático básico
 
@@ -278,6 +293,11 @@ El sistema permite consultar el saldo, realizar depósitos, efectuar retiros y r
 | **4** | Depositar | -$20 | Operación rechazada. |
 
 ---
+<p align="center">
+  <a href="./Ejercicio%204/">
+    📂 <b>Abrir carpeta del Ejercicio 4</b>
+  </a>
+</p>
 
 ## 🦇 Ejercicio 5 · Estacionamiento universitario
 
@@ -325,7 +345,11 @@ Al finalizar se genera un reporte general del estacionamiento.
 | **4** | Automóvil | 0 | Entrada inválida. |
 
 ---
-
+<p align="center">
+  <a href="./Ejercicio%205/">
+    📂 <b>Abrir carpeta del Ejercicio 5</b>
+  </a>
+</p>
 ## 🦇 Ejercicio 6 · Triángulo y patrones
 
 ### 📋 Descripción
@@ -395,6 +419,11 @@ El **ciclo interior** determina cuántos asteriscos o números se muestran dentr
 | **4** | `11` | Entrada rechazada. |
 
 ---
+<p align="center">
+  <a href="./Ejercicio%206/">
+    📂 <b>Abrir carpeta del Ejercicio 6</b>
+  </a>
+</p>
 
 ## 🦇 Ejercicio 7 · Control de ventas de cafetería
 
@@ -454,6 +483,11 @@ El programa permite registrar ventas y generar estadísticas.
 | **4** | Jugo | -2 | Cantidad inválida. |
 
 ---
+<p align="center">
+  <a href="./Ejercicio%207/">
+    📂 <b>Abrir carpeta del Ejercicio 7</b>
+  </a>
+</p>
 
 ## 🦇 Ejercicio 8 · Detector y depurador de errores
 
@@ -545,6 +579,11 @@ Después del número `10`, la condición deja de cumplirse y el ciclo termina.
 | 11 | 11 | No | Finaliza | 11 |
 
 ---
+<p align="center">
+  <a href="./Ejercicio%208/">
+    📂 <b>Abrir carpeta del Ejercicio 8</b>
+  </a>
+</p>
 
 ## 🦇 Ejercicio 9 · Estadísticas de una encuesta universitaria
 
@@ -599,6 +638,11 @@ El programa determina:
 | **5** | 19 | 3 | 25 | Horas inválidas. |
 
 ---
+<p align="center">
+  <a href="./Ejercicio%209/">
+    📂 <b>Abrir carpeta del Ejercicio 9</b>
+  </a>
+</p>
 
 ## 🦇 Ejercicio 10 · Sistema integrador de parqueadero
 
@@ -739,6 +783,11 @@ Cada programa debe comprobarse utilizando diferentes escenarios antes de conside
 > **Regla de la Baticueva:** ningún caso se cierra únicamente porque «en mi computadora sí funciona».
 
 ---
+<p align="center">
+  <a href="./Ejercicio%2010/">
+    📂 <b>Abrir carpeta del Ejercicio 10</b>
+  </a>
+</p>
 
 # 📸 Evidencias · Archivo fotográfico de la Baticueva
 
