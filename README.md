@@ -98,6 +98,790 @@ Este protocolo orienta nuestro trabajo: incluso el mejor detective necesita comp
 
 Nuestro cinturón de herramientas empieza con atención, paciencia y disposición para revisar.
 
+---
+
+# 🗃️ Expedientes de la Baticueva · Ejercicios desarrollados
+
+Cada ejercicio representa un nuevo caso dentro de la Baticueva. A través de estos problemas se aplican estructuras de control, ciclos, validaciones, contadores, acumuladores y diferentes herramientas fundamentales para desarrollar la lógica de programación.
+
+> **Objetivo de la misión:** analizar cada problema, diseñar una solución lógica, programarla, comprobar su funcionamiento y documentar los resultados obtenidos.
+
+---
+
+## 🦇 Ejercicio 1 · Control de calificaciones
+
+### 📋 Descripción
+
+Este programa permite ingresar las calificaciones de **N estudiantes**, validando que la cantidad de estudiantes sea mayor que cero y que cada calificación se encuentre entre `0` y `10`.
+
+El programa determina:
+
+- Número de estudiantes.
+- Suma de calificaciones.
+- Promedio general.
+- Cantidad de aprobados.
+- Cantidad de reprobados.
+- Nota más alta.
+- Nota más baja.
+
+### ⚙️ Estructuras utilizadas
+
+- `while` para validar datos.
+- `for` para procesar las calificaciones.
+- `if / else` para clasificar aprobados y reprobados.
+- Contadores.
+- Acumuladores.
+- Variables para determinar máximo y mínimo.
+
+### 🧪 Casos de prueba
+
+| Caso | Entrada | Comprobación |
+| :---: | :---: | :--- |
+| **1** | `0` | Comprobar el límite inferior de una calificación. |
+| **2** | `7` | Comprobar una nota aprobatoria. |
+| **3** | `10` | Comprobar el límite superior permitido. |
+
+---
+
+## 🦇 Ejercicio 2 · Tabla de multiplicar configurable
+
+### 📋 Descripción
+
+Este programa solicita una **tabla inicial** y una **tabla final** para generar todas las tablas de multiplicar comprendidas dentro del intervalo indicado.
+
+Además, permite establecer hasta qué multiplicador se desea generar cada tabla.
+
+Por ejemplo:
+
+```text
+Tabla inicial: 3
+Tabla final: 5
+Multiplicador máximo: 10
+```
+
+El sistema genera las tablas correspondientes desde la tabla `3` hasta la tabla `5`.
+
+### ⚙️ Estructuras utilizadas
+
+- Validaciones de entrada.
+- Ciclos `for` anidados.
+- `for` exterior para controlar las tablas.
+- `for` interior para realizar las multiplicaciones.
+- Condicionales.
+
+### 🧪 Casos de prueba
+
+| Caso | Tabla inicial | Tabla final | Multiplicador | Resultado |
+| :---: | :---: | :---: | :---: | :--- |
+| **1** | 3 | 5 | 10 | Generación normal. |
+| **2** | 2 | 2 | 5 | Generación de una sola tabla. |
+| **3** | 8 | 4 | 10 | Entrada inválida. |
+
+---
+
+## 🦇 Ejercicio 3 · Serie y suma de números pares
+
+### 📋 Descripción
+
+El programa solicita un número entero positivo `N` y muestra todos los números pares comprendidos desde `2` hasta el valor ingresado.
+
+También determina:
+
+- Cantidad de números pares.
+- Suma de los números pares.
+- Promedio de los números pares.
+
+Ejemplo:
+
+```text
+Ingrese N: 12
+
+Serie:
+2 4 6 8 10 12
+
+Cantidad de pares: 6
+Suma: 42
+Promedio: 7
+```
+
+### ⚙️ Estructuras utilizadas
+
+- Validación de entrada.
+- Ciclo `for`.
+- `if` para determinar números pares.
+- Contador.
+- Acumulador.
+- Cálculo de promedio.
+
+### 🧪 Casos de prueba
+
+| Caso | Entrada | Resultado esperado |
+| :---: | :---: | :--- |
+| **1** | `1` | No existen números pares dentro del intervalo. |
+| **2** | `2` | Se muestra únicamente el número `2`. |
+| **3** | `-5` | El programa rechaza la entrada. |
+| **4** | `12` | Se muestra `2 4 6 8 10 12`. |
+
+---
+
+## 🦇 Ejercicio 4 · Cajero automático básico
+
+### 📋 Descripción
+
+Este ejercicio simula las operaciones principales de un cajero automático.
+
+El usuario comienza con un saldo inicial de:
+
+```text
+$100.00
+```
+
+El menú disponible es:
+
+```text
+=========================
+     CAJERO ACADÉMICO
+=========================
+1. Consultar saldo
+2. Depositar
+3. Retirar
+4. Mostrar movimientos
+5. Salir
+=========================
+```
+
+El sistema permite consultar el saldo, realizar depósitos, efectuar retiros y revisar los movimientos realizados.
+
+### ⚙️ Estructuras utilizadas
+
+- `do-while` para mantener activo el menú.
+- `switch` para seleccionar las opciones.
+- `if / else` para las validaciones.
+- Contadores.
+- Acumuladores.
+- Operaciones aritméticas.
+
+### 🛡️ Validaciones
+
+- No permitir depósitos negativos.
+- No permitir retiros negativos.
+- No permitir retiros superiores al saldo disponible.
+- No aceptar opciones inexistentes.
+
+### 🧪 Casos de prueba
+
+| Caso | Operación | Valor | Resultado esperado |
+| :---: | :--- | ---: | :--- |
+| **1** | Depositar | $50 | Saldo aumenta correctamente. |
+| **2** | Retirar | $30 | Saldo disminuye correctamente. |
+| **3** | Retirar | $500 | Operación rechazada por saldo insuficiente. |
+| **4** | Depositar | -$20 | Operación rechazada. |
+
+---
+
+## 🦇 Ejercicio 5 · Estacionamiento universitario
+
+### 📋 Descripción
+
+Este programa permite registrar diferentes vehículos que utilizan un estacionamiento universitario.
+
+Por cada vehículo se solicita:
+
+```text
+Tipo:
+1. Motocicleta
+2. Automóvil
+3. Camioneta
+
+Horas estacionado:
+```
+
+Las tarifas establecidas son:
+
+| Vehículo | Tarifa por hora |
+| :--- | ---: |
+| Motocicleta | `$0.50` |
+| Automóvil | `$1.00` |
+| Camioneta | `$1.50` |
+
+Al finalizar se genera un reporte general del estacionamiento.
+
+### ⚙️ Estructuras utilizadas
+
+- `do-while`.
+- `switch`.
+- `if / else`.
+- Contadores.
+- Acumuladores.
+- Validaciones.
+
+### 🧪 Casos de prueba
+
+| Caso | Vehículo | Horas | Resultado |
+| :---: | :--- | :---: | :---: |
+| **1** | Motocicleta | 2 | `$1.00` |
+| **2** | Automóvil | 3 | `$3.00` |
+| **3** | Camioneta | 4 | `$6.00` |
+| **4** | Automóvil | 0 | Entrada inválida. |
+
+---
+
+## 🦇 Ejercicio 6 · Triángulo y patrones
+
+### 📋 Descripción
+
+El programa solicita un número entre `2` y `10`.
+
+A partir del valor ingresado genera tres patrones diferentes.
+
+### Patrón ascendente
+
+Para:
+
+```text
+5
+```
+
+se obtiene:
+
+```text
+*
+**
+***
+****
+*****
+```
+
+### Patrón descendente
+
+```text
+*****
+****
+***
+**
+*
+```
+
+### Patrón numérico
+
+```text
+1
+12
+123
+1234
+12345
+```
+
+### ⚙️ Estructuras utilizadas
+
+- Validación de entrada.
+- Ciclos `for` anidados.
+- Ciclo exterior para controlar las filas.
+- Ciclo interior para controlar los elementos de cada fila.
+
+### 🔎 Funcionamiento de los ciclos
+
+El **ciclo exterior** determina la fila que se está procesando.
+
+El **ciclo interior** determina cuántos asteriscos o números se muestran dentro de cada fila.
+
+### 🧪 Casos de prueba
+
+| Caso | Entrada | Resultado |
+| :---: | :---: | :--- |
+| **1** | `2` | Límite mínimo permitido. |
+| **2** | `5` | Generación normal de los patrones. |
+| **3** | `10` | Límite máximo permitido. |
+| **4** | `11` | Entrada rechazada. |
+
+---
+
+## 🦇 Ejercicio 7 · Control de ventas de cafetería
+
+### 📋 Descripción
+
+Este programa administra las ventas realizadas dentro de una cafetería universitaria.
+
+El menú principal es:
+
+```text
+================================
+    CAFETERÍA UNIVERSITARIA
+================================
+1. Registrar venta
+2. Mostrar estadísticas
+3. Mostrar tabla de productos
+4. Salir
+================================
+```
+
+Los productos disponibles son:
+
+| Código | Producto | Precio |
+| :---: | :--- | ---: |
+| **1** | Café | `$1.00` |
+| **2** | Sándwich | `$2.50` |
+| **3** | Jugo | `$1.50` |
+| **4** | Empanada | `$1.25` |
+
+El programa permite registrar ventas y generar estadísticas.
+
+### 📊 Estadísticas generadas
+
+- Número de ventas.
+- Cantidad total de productos.
+- Total recaudado.
+- Promedio por venta.
+- Producto con mayor cantidad vendida.
+
+### ⚙️ Estructuras utilizadas
+
+- `do-while`.
+- `switch`.
+- `if / else`.
+- Contadores.
+- Acumuladores.
+- Condicionales.
+- Validaciones.
+
+### 🧪 Casos de prueba
+
+| Caso | Producto | Cantidad | Resultado |
+| :---: | :--- | :---: | :--- |
+| **1** | Café | 2 | Venta válida. |
+| **2** | Sándwich | 3 | Venta válida. |
+| **3** | Producto `5` | - | Producto inexistente. |
+| **4** | Jugo | -2 | Cantidad inválida. |
+
+---
+
+## 🦇 Ejercicio 8 · Detector y depurador de errores
+
+### 📋 Descripción
+
+Este ejercicio permite analizar, identificar y corregir errores relacionados con ciclos.
+
+El código original es:
+
+```java
+int numero = 1;
+
+while (numero <= 10) {
+    System.out.println(numero);
+}
+```
+
+### 🚨 ERROR ENCONTRADO
+
+El programa genera un **bucle infinito**.
+
+### 🔍 CAUSA
+
+La variable:
+
+```java
+numero
+```
+
+inicia con el valor `1`, pero nunca cambia dentro del ciclo.
+
+Por esta razón, la condición:
+
+```java
+numero <= 10
+```
+
+permanece siempre verdadera.
+
+### 🛠️ SOLUCIÓN
+
+Se debe incrementar la variable `numero` dentro del ciclo:
+
+```java
+int numero = 1;
+
+while (numero <= 10) {
+    System.out.println(numero);
+    numero++;
+}
+```
+
+### ✅ RESULTADO
+
+El programa muestra correctamente:
+
+```text
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+```
+
+Después del número `10`, la condición deja de cumplirse y el ciclo termina.
+
+### ⚙️ Estructuras utilizadas
+
+- `while`.
+- Contador.
+- Incremento `++`.
+- Tabla de trazas.
+- Análisis y depuración de errores.
+
+### 🧪 Caso de prueba
+
+| Iteración | numero antes | ¿numero <= 10? | Salida | numero después |
+| :---: | :---: | :---: | :---: | :---: |
+| 1 | 1 | Sí | 1 | 2 |
+| 2 | 2 | Sí | 2 | 3 |
+| 3 | 3 | Sí | 3 | 4 |
+| ... | ... | ... | ... | ... |
+| 10 | 10 | Sí | 10 | 11 |
+| 11 | 11 | No | Finaliza | 11 |
+
+---
+
+## 🦇 Ejercicio 9 · Estadísticas de una encuesta universitaria
+
+### 📋 Descripción
+
+Este programa solicita inicialmente la cantidad de estudiantes que participarán en una encuesta.
+
+Por cada estudiante se registra:
+
+```text
+Edad:
+Semestre:
+Horas de estudio por día:
+```
+
+Los datos permitidos son:
+
+| Dato | Valores permitidos |
+| :--- | :---: |
+| Edad | `16 – 80` |
+| Semestre | `1 – 10` |
+| Horas de estudio | `0 – 24` |
+
+### 📊 Resultados obtenidos
+
+El programa determina:
+
+- Edad promedio.
+- Horas promedio de estudio.
+- Estudiante con mayor cantidad de horas de estudio.
+- Estudiantes que estudian menos de 2 horas.
+- Cantidad de estudiantes por semestre.
+
+### ⚙️ Estructuras utilizadas
+
+- `while` para validaciones.
+- `for` para procesar estudiantes.
+- Ciclos anidados.
+- `if / else`.
+- Contadores.
+- Acumuladores.
+- Comparación de valores.
+
+### 🧪 Casos de prueba
+
+| Caso | Edad | Semestre | Horas | Resultado |
+| :---: | :---: | :---: | :---: | :--- |
+| **1** | 18 | 1 | 1 | Datos válidos. |
+| **2** | 21 | 4 | 5 | Datos válidos. |
+| **3** | 81 | 2 | 3 | Edad inválida. |
+| **4** | 20 | 11 | 4 | Semestre inválido. |
+| **5** | 19 | 3 | 25 | Horas inválidas. |
+
+---
+
+## 🦇 Ejercicio 10 · Sistema integrador de parqueadero
+
+### 📋 Descripción
+
+El último ejercicio integra diferentes conocimientos adquiridos durante la práctica mediante un sistema completo de administración de un parqueadero universitario.
+
+El menú principal es:
+
+```text
+===================================
+  PARQUEADERO UNIVERSITARIO
+===================================
+1. Registrar vehículo
+2. Mostrar vehículos registrados
+3. Mostrar estadísticas
+4. Mostrar recaudación
+5. Salir
+===================================
+```
+
+Por cada vehículo se registra:
+
+- Tipo de vehículo.
+- Rol del usuario.
+- Número de horas.
+- Día de la semana.
+- Boleto perdido: sí/no.
+
+Los roles disponibles son:
+
+```text
+1. Estudiante
+2. Docente
+3. Visitante
+```
+
+El programa aplica las tarifas establecidas por el equipo.
+
+### 📊 Estadísticas generadas
+
+- Vehículos registrados.
+- Cantidad por tipo.
+- Cantidad por rol.
+- Total de horas.
+- Promedio de permanencia.
+- Total recaudado.
+- Mayor valor pagado.
+- Menor valor pagado.
+
+### ⚙️ Estructuras utilizadas
+
+- `do-while`.
+- `while`.
+- `for`.
+- `switch`.
+- `if / else`.
+- Contadores.
+- Acumuladores.
+- Validaciones.
+- Cálculos de promedio.
+- Comparaciones para máximo y mínimo.
+
+### 🧪 Casos de prueba
+
+| Caso | Tipo | Rol | Horas | Día | Boleto perdido |
+| :---: | :--- | :--- | :---: | :--- | :---: |
+| **1** | Motocicleta | Estudiante | 2 | Lunes | No |
+| **2** | Automóvil | Docente | 5 | Miércoles | No |
+| **3** | Camioneta | Visitante | 8 | Viernes | Sí |
+
+> Los valores finales dependerán de las tarifas establecidas por el equipo para el sistema.
+
+---
+
+# ⚙️ Instrucciones de ejecución · Activando la Baticomputadora
+
+Para ejecutar los programas se debe contar con **Java instalado** correctamente en el computador.
+
+Los ejercicios pueden ejecutarse utilizando:
+
+- Visual Studio Code.
+- Apache NetBeans.
+- IntelliJ IDEA.
+- Eclipse.
+- Terminal o consola.
+
+---
+
+## 🖥️ Ejecución desde un IDE
+
+1. Descargar o clonar este repositorio.
+2. Abrir la carpeta del proyecto.
+3. Seleccionar el ejercicio que se desea ejecutar.
+4. Abrir el archivo `.java`.
+5. Verificar que el programa contenga:
+
+```java
+public static void main(String[] args)
+```
+
+6. Compilar el programa.
+7. Ejecutar el archivo.
+8. Ingresar los datos solicitados.
+9. Revisar los resultados mostrados en consola.
+
+---
+
+## 💻 Ejecución desde terminal
+
+### Compilar
+
+```bash
+javac NombrePrograma.java
+```
+
+### Ejecutar
+
+```bash
+java NombrePrograma
+```
+
+> Sustituir `NombrePrograma` por el nombre real de la clase correspondiente a cada ejercicio.
+
+---
+
+# 🧪 Protocolo de pruebas · Inspección de la Baticueva
+
+Cada programa debe comprobarse utilizando diferentes escenarios antes de considerarlo terminado.
+
+| Tipo de prueba | Objetivo |
+| :--- | :--- |
+| **Caso normal** | Verificar el comportamiento con valores habituales. |
+| **Caso límite** | Comprobar valores mínimos o máximos permitidos. |
+| **Entrada inválida** | Verificar que el programa rechace información incorrecta. |
+| **Caso especial** | Analizar situaciones que modifican el flujo normal del programa. |
+
+> **Regla de la Baticueva:** ningún caso se cierra únicamente porque «en mi computadora sí funciona».
+
+---
+
+# 📸 Evidencias · Archivo fotográfico de la Baticueva
+
+En esta sección se colocarán las capturas correspondientes a la ejecución real de cada ejercicio.
+
+---
+
+## 📷 Evidencia · Ejercicio 1
+
+<!--
+Colocar la imagen dentro de una carpeta llamada "evidencias"
+y reemplazar el nombre si fuera necesario.
+-->
+
+<p align="center">
+  <img src="evidencias/ejercicio1.png" width="750" alt="Ejecución del Ejercicio 1 - Control de calificaciones">
+</p>
+
+---
+
+## 📷 Evidencia · Ejercicio 2
+
+<p align="center">
+  <img src="evidencias/ejercicio2.png" width="750" alt="Ejecución del Ejercicio 2 - Tabla de multiplicar configurable">
+</p>
+
+---
+
+## 📷 Evidencia · Ejercicio 3
+
+<p align="center">
+  <img src="evidencias/ejercicio3.png" width="750" alt="Ejecución del Ejercicio 3 - Serie y suma de números pares">
+</p>
+
+---
+
+## 📷 Evidencia · Ejercicio 4
+
+<p align="center">
+  <img src="evidencias/ejercicio4.png" width="750" alt="Ejecución del Ejercicio 4 - Cajero automático básico">
+</p>
+
+---
+
+## 📷 Evidencia · Ejercicio 5
+
+<p align="center">
+  <img src="evidencias/ejercicio5.png" width="750" alt="Ejecución del Ejercicio 5 - Estacionamiento universitario">
+</p>
+
+---
+
+## 📷 Evidencia · Ejercicio 6
+
+<p align="center">
+  <img src="evidencias/ejercicio6.png" width="750" alt="Ejecución del Ejercicio 6 - Triángulo y patrones">
+</p>
+
+---
+
+## 📷 Evidencia · Ejercicio 7
+
+<p align="center">
+  <img src="evidencias/ejercicio7.png" width="750" alt="Ejecución del Ejercicio 7 - Control de ventas de cafetería">
+</p>
+
+---
+
+## 📷 Evidencia · Ejercicio 8
+
+<p align="center">
+  <img src="evidencias/ejercicio8.png" width="750" alt="Ejecución del Ejercicio 8 - Detector y depurador de errores">
+</p>
+
+---
+
+## 📷 Evidencia · Ejercicio 9
+
+<p align="center">
+  <img src="evidencias/ejercicio9.png" width="750" alt="Ejecución del Ejercicio 9 - Estadísticas de una encuesta universitaria">
+</p>
+
+---
+
+## 📷 Evidencia · Ejercicio 10
+
+<p align="center">
+  <img src="evidencias/ejercicio10.png" width="750" alt="Ejecución del Ejercicio 10 - Sistema integrador de parqueadero">
+</p>
+
+---
+
+# 🎯 Conclusiones · Caso cerrado
+
+### 🦇 Conclusión 1
+
+El desarrollo de los diez ejercicios permitió aplicar de manera práctica estructuras fundamentales de programación como `while`, `do-while`, `for`, `switch` y condicionales, comprendiendo la función que cumple cada una dentro de la solución de diferentes problemas.
+
+### 🦇 Conclusión 2
+
+El uso de contadores, acumuladores, validaciones y variables de control permitió desarrollar programas capaces de procesar información, generar estadísticas y responder correctamente ante datos válidos e inválidos.
+
+### 🦇 Conclusión 3
+
+La aplicación de casos de prueba permitió comprobar el comportamiento de los programas en diferentes situaciones, ayudando a detectar errores y mejorar la confiabilidad de las soluciones desarrolladas.
+
+### 🦇 Conclusión 4
+
+Los ejercicios de mayor complejidad permitieron integrar conocimientos aprendidos previamente, demostrando que un problema amplio puede solucionarse organizando correctamente sus procesos y aplicando las estructuras adecuadas.
+
+### 🦇 Conclusión 5
+
+La práctica fortaleció el razonamiento lógico y la capacidad para analizar un problema antes de programarlo, entendiendo que desarrollar software no consiste únicamente en escribir código, sino también en analizar, probar, corregir y documentar cada solución.
+
+---
+
+<div align="center">
+
+## 🦇 MISIÓN COMPLETADA
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=20&amp;duration=3200&amp;pause=1300&amp;color=B8860B&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=70&amp;lines=10+ejercicios.+10+expedientes+resueltos.;Analizamos.+Programamos.+Probamos.+Documentamos.;Cada+bug+deja+una+pista.;La+Baticueva+permanece+vigilante." width="100%" alt="Animación final de la práctica">
+
+<br>
+
+**Diez expedientes. Diez problemas. Muchas pruebas.**
+
+*El verdadero trabajo del detective no termina cuando el programa compila.*  
+*Termina cuando comprendemos por qué funciona.*
+
+<br>
+
+### GOTHAM PUEDE DESCANSAR... HASTA EL PRÓXIMO BUG.
+
+🦇
+
+<br>
+
+<sub>Programación · Lógica · Trabajo en equipo · Gotham Code Division</sub>
+
+</div>
+
+---
+
 ## 🗂️ Galería de villanos
 
 *Clasificación humorística de los enemigos del programa.*
