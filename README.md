@@ -147,6 +147,11 @@ El programa determina:
     📂 <b>Abrir carpeta del Ejercicio 1</b>
   </a>
 </p>
+<p align="center">
+  <a href="./Ejercicio%201/">
+    <img src="https://img.shields.io/badge/ABRIR_EXPEDIENTE-EJERCICIO_1-FACC15?style=for-the-badge&labelColor=18181B" alt="Abrir carpeta del Ejercicio 1">
+  </a>
+</p>
 
 ## 🦇 Ejercicio 2 · Tabla de multiplicar configurable
 
