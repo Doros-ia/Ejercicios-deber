@@ -876,9 +876,14 @@ y reemplazar el nombre si fuera necesario.
 ## 📷 Evidencia · Ejercicio 10
 
 <p align="center">
-  <img src="evidencias/ejercicio10.png" width="750" alt="Ejecución del Ejercicio 10 - Sistema integrador de parqueadero">
+  <img src="evidencias/ejercicio10_1.png" width="750" alt="Ejecución del Ejercicio 10 - Sistema integrador de parqueadero">
 </p>
-
+<p align="center">
+  <img src="evidencias/ejercicio10_2.png" width="750" alt="Ejecución del Ejercicio 10 - Sistema integrador de parqueadero">
+</p>
+<p align="center">
+  <img src="evidencias/ejercicio10_3.png" width="750" alt="Ejecución del Ejercicio 10 - Sistema integrador de parqueadero">
+</p>
 ---
 
 # 🎯 Conclusiones · Caso cerrado
